@@ -1,4 +1,5 @@
 # shop_ui
+![collage](https://user-images.githubusercontent.com/52535893/132849606-8dec2f7f-b58c-4403-bdd0-0f57eea61166.jpg)
 
 A new Flutter project.
 
